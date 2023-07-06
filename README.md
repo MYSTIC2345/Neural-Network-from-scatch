@@ -1,4 +1,5 @@
 # Neural-Network-from-scatch
+Hi, This is Vishwas Jajpura a third Year Undergraduate student at IIT kharagpur.
 I have created a Deep L-layered Neural network from scratch and Tested on Cat or Non-Cat recognizer.
 This is basically a process which is vectorised.
 Flow of the code file:
